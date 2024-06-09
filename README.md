@@ -3,3 +3,5 @@
 ## Salvando alterações no Git
 * comando git push
 * teste para subir
+* comando git pull
+* 

@@ -4,4 +4,4 @@
 * comando git push
 * teste para subir
 * comando git pull
-* 
+* comando git fetch

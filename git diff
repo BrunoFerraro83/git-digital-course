@@ -1,0 +1,14 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex f10d1e4..5759c31 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -2,4 +2,6 @@[m
+ [m
+ ## Gravando mudanças no repositório[m
+ [m
+[31m-## modificando !![m
+\ No newline at end of file[m
+[32m+[m[32m## modificando !![m
+[32m+[m
+[32m+[m[32m## Teste[m
+\ No newline at end of file[m
